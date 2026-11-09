@@ -1,0 +1,15 @@
+# AI Video Editor — Python dependencies (Python 3.10+)
+# System requirement: ffmpeg + ffprobe on PATH (https://ffmpeg.org/download.html)
+#   Windows: winget install Gyan.FFmpeg   macOS: brew install ffmpeg   Ubuntu: sudo apt install ffmpeg
+ffmpeg-python>=0.2.0
+# OpenCV 5 removed the Haar face detector used for face tracking -> stay on 4.x.
+# (opencv-python-headless also works and is lighter on servers)
+opencv-python>=4.9,<5
+pillow>=10.0
+numpy>=1.26
+moviepy>=2.0
+faster-whisper>=1.0
+# MODNet person cut-out for the backdrop-word effect
+onnxruntime>=1.17
+# Hindi TTS used only to build the sample test clip (optional)
+# piper-tts>=1.2

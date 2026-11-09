@@ -1,0 +1,13 @@
+# model weights (auto-downloaded: MODNet -> models/, Whisper -> ~/.cache/huggingface)
+models/
+__pycache__/
+*.pyc
+.venv/
+venv/
+# raw camera files are big -> keep them on Drive (GitHub limit 100 MB per file)
+Raw/**/*.mov
+Raw/**/*.MOV
+References/**/*.mov
+References/**/*.MOV
+*.tmp.mp4
+.DS_Store
