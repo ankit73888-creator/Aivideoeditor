@@ -7,6 +7,7 @@ Marketing reels ka project folder.
 | `Raw/` | Original footage, photos, audio — bina edit kiya hua |
 | `References/` | Reference reels, style notes, scripts, client brief |
 | `Exports/` | Final ready reels |
+| `Tools/whisper/` | Video se captions (`.srt`) banane ka whisper.cpp setup — [kaise chalayein](Tools/whisper/README.md) |
 
 ## Naming
 
