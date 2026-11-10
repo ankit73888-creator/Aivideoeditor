@@ -1,3 +1,6 @@
 # whisper.cpp downloads (setup.ps1 se aate hain)
 Tools/whisper/bin/
 Tools/whisper/models/
+
+# HyperFrames / Node
+node_modules/

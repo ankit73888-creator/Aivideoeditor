@@ -8,6 +8,8 @@ Marketing reels ka project folder.
 | `References/` | Reference reels, style notes, scripts, client brief |
 | `Exports/` | Final ready reels |
 | `Tools/whisper/` | Video se captions (`.srt`) banane ka whisper.cpp setup — [kaise chalayein](Tools/whisper/README.md) |
+| `Tools/hyperframes/` | HTML se motion-graphics video banane ka HyperFrames setup — [kaise chalayein](Tools/hyperframes/README.md) |
+| `Compositions/` | HyperFrames ke video projects |
 
 ## Naming
 
