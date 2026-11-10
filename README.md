@@ -9,6 +9,7 @@ Marketing reels ka project folder.
 | `Exports/` | Final ready reels |
 | `Tools/whisper/` | Video se captions (`.srt`) banane ka whisper.cpp setup — [kaise chalayein](Tools/whisper/README.md) |
 | `Tools/hyperframes/` | HTML se motion-graphics video banane ka HyperFrames setup — [kaise chalayein](Tools/hyperframes/README.md) |
+| `Tools/ffmpeg/` | FFmpeg setup aur reel export / caption / cut ke commands — [kaise chalayein](Tools/ffmpeg/README.md) |
 | `Compositions/` | HyperFrames ke video projects |
 
 ## Naming
